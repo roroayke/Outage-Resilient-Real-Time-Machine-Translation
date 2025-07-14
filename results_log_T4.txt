@@ -1,0 +1,8 @@
+MarianMT Distillation Summary (RTX 4070)
+Date/Time: 2025-04-28 22:11:37.315026
+
+GPU Used: Tesla T4
+Training Time (hrs): 0.01
+Estimated GPU Cost ($): 0.00
+BLEU Score (Teacher): 18.10
+BLEU Score (Student): 7.44

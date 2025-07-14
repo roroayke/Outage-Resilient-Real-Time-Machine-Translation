@@ -1,0 +1,8 @@
+MarianMT Distillation Summary (RTX 4070)
+Date/Time: 2025-04-23 16:56:40.114820
+
+GPU Used: NVIDIA GeForce RTX 4070 Laptop GPU
+Training Time (hrs): 0.03
+Estimated GPU Cost ($): 0.01
+BLEU Score (Teacher): 18.10
+BLEU Score (Student): 8.01
